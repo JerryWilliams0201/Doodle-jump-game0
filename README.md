@@ -38,31 +38,21 @@ This project recreates the core mechanics of Doodle Jump:
 
 > *(Save your screenshots in a folder named `screenshots/` and update these links)*
 
-| Start Menu              | Gameplay                    |
-|-------------------------|-----------------------------|
-| ![Start](screenshots/start.png) | ![Game](screenshots/gameplay.png) |
+
+| ![GAMEPLAY](GAMEPLAY.png) | ![GAMEOVER](GAMEOVER.png) | ![MENU](MENU.PNG)
 
 ---
 
 ## 🎥 Video Demonstration
 
-> *(Upload your video to [YouTube](https://youtube.com) or [Google Drive](https://drive.google.com) and paste the link below)*
-
-[🔗 Click here to watch the demo](https://your-video-link.com)
+https://drive.google.com/file/d/1nDcJxz7dYUUOHS_DAMaTqqxBH1PYlskH/view?usp=share_link
 
 ---
 
 ## 🚀 Live Game Link
 
-> *(After enabling GitHub Pages)*
-
 Play now:  
-**https://your-username.github.io/doodle-jump-game/**
+[**https://your-username.github.io/doodle-jump-game/**](https://jerrywilliams0201.github.io/Doodle-jump-game0/)
 
 ---
 
-## 📂 How to Run Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/doodle-jump-game.git
