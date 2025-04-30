@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doodle Jump</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div id="menu">
+    <h1>Doodle Jump</h1>
+    <button onclick="startGame()">Start</button>
+    <button onclick="togglePause()">Pause</button>
+    <button onclick="toggleMusic()">🔊 Toggle Music</button>
+
+    <button onclick="exitGame()">Exit</button>
+  </div>
+
+  <canvas id="gameCanvas" style="display: none;"></canvas>
+  <button id="mobilePause" onclick="togglePause()" style="display: none;">⏸️ Pause</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
