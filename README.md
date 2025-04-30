@@ -39,7 +39,7 @@ This project recreates the core mechanics of Doodle Jump:
 > *(Save your screenshots in a folder named `screenshots/` and update these links)*
 
 
-| ![GAMEPLAY](GAMEPLAY.png) | ![GAMEOVER](GAMEOVER.png) | ![MENU](MENU.PNG)
+| ![GAMEPLAY](GAMEPLAY.png) | ![GAMEOVER](GAMEOVER.png) | 
 
 ---
 
