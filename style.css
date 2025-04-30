@@ -6,8 +6,8 @@ body {
   canvas {
     display: block;
     margin: 0 auto;
-    background: url('https://expertvagabond.com/wp-content/uploads/venice-sunset-VERT-800x1199.jpg');
-    background-size: cover;
+    
+    
   }
   #menu {
     position: absolute;
